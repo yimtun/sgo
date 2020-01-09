@@ -1,0 +1,12 @@
+{
+"plugins": [
+            "-search"
+            
+],
+
+
+    "styles": {
+        "website": "styles/website.css"
+    }
+
+}

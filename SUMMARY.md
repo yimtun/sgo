@@ -1,0 +1,18 @@
+# Summary
+
+* [GO语言学习笔记-见不得人版](README.md)
+* [GO IDE](ide/ide.md)
+    * [go-vim 设置初级](ide/go-vim-v1.md)
+* [数据库 环境](database/database.md)
+    * [MySql 安装](mysql/install.md)
+* [GO 数据库](go-database/go-database.md)
+* [GO web](go-web/go-web.md)
+    * [一个最简单的web](go-web/go-simple-web.md)
+    * [将页面提交的数据写入数据库](go-web/mysql.md)
+        * [数据建表授权](go-web/web-data-insert-mysql.md)
+        * [示例代码](go-web/web-data-insert-mysql-code.md)
+        * [curl 客户端测试](go-web/web-data-insert-mysql-test.md)
+        * [浏览器 客户端测试](go-web/web-data-insert-mysql-test.md)
+* [GO 调试工具](debug/debug.md)
+    * [delve](debug/delve.md)
+    * [gdb](debug/gdb.md)
